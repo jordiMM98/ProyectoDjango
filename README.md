@@ -1,0 +1,2 @@
+# ProyectoDjango
+python , mysql 
